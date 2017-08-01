@@ -1,0 +1,21 @@
+#menu
+{
+  float:Top left;
+	width:400px;
+	border:1px solid #f96; 
+	height:15px;
+  font-family: Coalition;
+  font-size: small;
+  color: green; 
+  overflow: hidden;
+}
+    
+#menu:hover 
+{
+  float:Top left;
+	height:260px; 
+	cursor:pointer;
+  font-family: Coalition;
+  font-size: small;
+  color: green; 
+}

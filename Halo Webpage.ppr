@@ -1,0 +1,63 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+Halo Webpage
+	+html pages
+		halointroduction.html
+		halostory.html
+		halocharacters.html
+		halocovenant.html
+		halounsc.html
+		halounsc2.html
+		haloforerunnersandflood.html
+		haloforerunners&flood.html
+		mywebpage'sstyle.css
+[Open project files]
+0=halointroduction.html
+1=halostory.html
+2=halocharacters.html
+3=halocovenant.html
+4=halounsc.html
+5=halounsc2.html
+6=haloforerunnersandflood.html
+7=mywebpage'sstyle.css
+8=my_function.js
+[Selected Project Files]
+Main=
+Selected=halounsc.html
+[halointroduction.html]
+TopLine=48
+Caret=58,64
+[halostory.html]
+TopLine=1
+Caret=32,10
+[halocharacters.html]
+TopLine=36
+Caret=84,42
+[halocovenant.html]
+TopLine=58
+Caret=38,64
+[halounsc.html]
+TopLine=1
+Caret=32,10
+[halounsc2.html]
+TopLine=1
+Caret=32,10
+[haloforerunnersandflood.html]
+TopLine=1
+Caret=32,10
+[mywebpage'sstyle.css]
+TopLine=25
+Caret=96,50
+[my_function.js]
+TopLine=1
+Caret=56,27

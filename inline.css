@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>
+      CSS 1
+    </TITLE>
+  </HEAD>
+  <BODY>
+    <H1 style=
+    "font-family: Arial; color: green; font-weight: bold">
+      Section 1
+    </H1>
+    <P style="font-family: Courier; color: red">
+
+      contents of section 1
+    </P>
+    <H1 style=
+    "font-family: Arial; color: green; font-weight: bold">
+      Section 2
+    </H1>
+    <P style="font-family: Courier; color: red">
+      contents of section 2
+    </P>
+    <H1 style=
+    "font-family: Arial; color: green; font-weight: bold">
+      Section 3
+    </H1>
+
+    <P style="font-family: Courier; color: red">
+      contents of section 3
+    </P>
+  </BODY>
+</HTML>
+
